@@ -42,16 +42,16 @@ To conduct load test on separately excited generators and to obtain the characte
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 ### Setup:
-<img width="1655" height="762" alt="Screenshot 2026-10-07 152602" src="https://github.com/user-attachments/assets/9937ee2c-a0b6-469c-8803-18c37e7dd36f" />
-<img width="1298" height="768" alt="Screenshot 2026-10-07 153233" src="https://github.com/user-attachments/assets/e7325e62-fdb8-4613-9fad-2a270a26f019" />
+<img width="1655" height="762" alt="Setup 1" src="https://github.com/user-attachments/assets/9937ee2c-a0b6-469c-8803-18c37e7dd36f" />
+<img width="1298" height="768" alt="Setup 2" src="https://github.com/user-attachments/assets/e7325e62-fdb8-4613-9fad-2a270a26f019" />
 
 ### Tabulaion:
-<img width="292" height="240" alt="image" src="https://github.com/user-attachments/assets/50812b8a-644f-4311-8f4d-3fcad5b7a34e" />
-<img width="385" height="308" alt="image" src="https://github.com/user-attachments/assets/5455a9be-a1ff-44cf-a2b1-46dae911b098" />
+<img width="292" height="240" alt="Table 1" src="https://github.com/user-attachments/assets/50812b8a-644f-4311-8f4d-3fcad5b7a34e" />
+<img width="385" height="308" alt="Table 2" src="https://github.com/user-attachments/assets/5455a9be-a1ff-44cf-a2b1-46dae911b098" />
 
 ### Model graph:
-<img width="1645" height="516" alt="Screenshot 2026-10-07 152944" src="https://github.com/user-attachments/assets/503a926a-596e-4c3c-9c89-0d8534239508" />
-<img width="767" height="391" alt="Screenshot 2026-10-07 153717" src="https://github.com/user-attachments/assets/614131d4-a34f-4438-9a4b-48bc40e33bed" />
+<img width="1645" height="516" alt="Graph 1" src="https://github.com/user-attachments/assets/503a926a-596e-4c3c-9c89-0d8534239508" />
+<img width="767" height="391" alt="Graph 2" src="https://github.com/user-attachments/assets/614131d4-a34f-4438-9a4b-48bc40e33bed" />
 
 ### Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
